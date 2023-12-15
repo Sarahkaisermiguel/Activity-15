@@ -4,8 +4,6 @@
     flex-direction: row;
     padding: 30px;
     
-    
-
 }
 .c1{
     margin: 10px;
@@ -35,6 +33,6 @@
     max-width: 650px;
     margin:auto;
     border-radius: 20px;
-    background-color:powderblue;
+    background-color:lightcyan;
     margin-top: 100px;
 }
